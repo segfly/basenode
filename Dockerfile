@@ -1,4 +1,4 @@
-FROM node:0.12.7-slim
+FROM node:0.12.7
 
 # Install node dependencies
 ADD package.json .
